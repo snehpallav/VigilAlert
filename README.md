@@ -1,4 +1,4 @@
-# idea for codefundoo
+# idea for codefundoo++
 
 **VigilAlert** is an android application which will be used as an **“emergency notification system”**
 To notify all the users in nearby region in case there is any disaster or calamity.  Users who witness any 
