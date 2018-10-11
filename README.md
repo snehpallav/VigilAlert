@@ -21,19 +21,19 @@ Incident or disaster will have an **option** to report the same in the app, and 
 * This will help the rescue teams, and police to effectively plan their rescue operation and save more lives.
 
 # economical
-* The map will involve varied density of people to be rescued. The rescue team will only send the required number of volunteers for the same. Hence, it   will be economical and also reduce the waste of manpower.
+* The map will involve **varied density** of people to be rescued. The rescue team will only send the *required number of volunteers* for the same. Hence, it  will be **economical** and also reduce the waste of manpower.
 
 # Prediction
 * This will also help in predicting any disaster by fetching data from weather API, and notify the same.
 Apart from that, the app will also warn users of any possible calamity,
 
-* For e.g. in a recent  kedarnath incident, one side of the mountain, there was heavy rain, people who were on the other side were not aware and lost their lives due to the dam overflow.
+> For e.g. in a recent  kedarnath incident, one side of the mountain, there was heavy rain, people who were on the other side were not aware and lost their lives due to the dam overflow.
 
 * If users report any possibility of any unforeseen happening, if a dam is about to be opened, the users in the region will get notified and will be alert,
 Hence, will save more lives.
 
 # additional features
-* Language translator for reaching variety of users.
+* Cloud Language translation API for reaching variety of users.
 
 
 
