@@ -3,12 +3,15 @@
 **VigilAlert** is an android application which will be used as an **“emergency notification system”**
 To notify all the users in nearby region in case there is any disaster or calamity.  Users who witness any 
 Incident or disaster will have an **option** to report the same in the app, and support with photos, if possible.
+There will be a **web based platform** for admins to control an affected area as well.
+This could be well extended to work like a **web based application.**
 
 # Technologies used
 * Android will be used as a platform to build the app.
 * Image processing will be used to validate correct images.
 * Database will be used to keep track of all the users.
 * Location based API will be used to keep track of the users.
+* Database driven dynamic website.
 
 # How does it work
 * In vigilAlert, users will have to register using their email id and phone number (so as to avoid fake reports).
